@@ -1,16 +1,12 @@
-## Hi there 👋
+- 👋 Hi, I’m Juan
+-  I’m interested in anything analytics. 
+-  Working on building my first portfolio to reference for future job applications. 
+-  Further developing my SQL, Python and R skills.
+-  Finance and Business Analytics Professional 
+-  Obtained the Google Data Analytics Professional Certificate. 
+-  Reach me  Via LinkedIn: www.linkedin.com/in/Juan-Torres-Soto
 
-<!--
-**JuanTorresSoto/JuanTorresSoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!---
+JuanTorresSoto/JuanTorresSoto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
